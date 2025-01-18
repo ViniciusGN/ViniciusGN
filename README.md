@@ -2,9 +2,9 @@
 
 **`Cybersecurity Analyst`**
 
-My name is Vinicius Nascimento, a 25-year-old Brazilian majoring in Cybersecurity & Artificial Intelligence. I am currently pursuing a degree in Network Engineering at the University of Brasília (UnB) and a double degree in Computer Engineering at ENSICAEN (BAC+4), in France.  
+My name is Vinicius Nascimento, a 25-year-old Brazilian majoring in Cybersecurity & Artificial Intelligence. I am currently pursuing a degree in Network Engineering at the University of Brasília (UnB) and a double degree in Computer Engineering at ENSICAEN (BAC+4), in France. 
 
-I am passionate about cybersecurity, AI, and telecommunications, and I share my knowledge through articles and projects on GitHub and Medium: [Vinicius Medium](https://medium.com/@viniciusg.mnas).
+I am passionate about cybersecurity, AI, and telecommunications, and I share my knowledge through articles and projects available on GitHub and Medium, which serve as my portfolios: [Vinicius Medium](https://medium.com/@viniciusg.mnas).
 
 
 <p align="left">
