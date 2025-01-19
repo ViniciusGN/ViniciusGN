@@ -112,7 +112,7 @@ I am passionate about cybersecurity, AI, and telecommunications, and I share my 
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats1" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ViniciusGN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
@@ -120,7 +120,7 @@ I am passionate about cybersecurity, AI, and telecommunications, and I share my 
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Stats2" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGN&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
   />
