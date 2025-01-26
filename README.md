@@ -107,6 +107,18 @@ I am passionate about cybersecurity, AI, and telecommunications, and I share my 
 
 ---
 
+### 📰 Portfolio Medium Articles
+
+<a 
+    target="_blank"
+    href="https://github-readme-medium-recent-article.vercel.app/medium/@viniciusg.mnas/0">
+        <img 
+            src="https://github-readme-medium-recent-article.vercel.app/medium/@viniciusg.mnas/0" 
+            alt="Recent Article 0"/>
+</a>
+
+---
+
 ### 📊 Statistics
 
 <p>
