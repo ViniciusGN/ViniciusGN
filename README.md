@@ -117,11 +117,9 @@ I am passionate about cybersecurity, AI, and telecommunications, and I share my 
             alt="Recent Article 0"/>
 </a>
 
-<iframe
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4297694"
-    style='border:none;'>
-</iframe>
-
+<img
+    src="https://tryhackme-badges.s3.amazonaws.com/viniciusg.mnas.png" alt="Your Image Badge"
+/>
 ---
 
 ### 📊 Statistics
