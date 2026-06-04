@@ -123,10 +123,10 @@ I am passionate about cybersecurity, AI, and telecommunications, and I share my 
 <p align="center">
   <img
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusGN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ViniciusGN"
   />
   <img
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGN&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniciusGN"
   />
 </p>
