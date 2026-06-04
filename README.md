@@ -120,22 +120,13 @@ I am passionate about cybersecurity, AI, and telecommunications, and I share my 
 ---
 
 ### 📊 Statistics
-
-<table>
-  <tr>
-    <td>
-      <img
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=ViniciusGN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-      />
-    </td>
-    <td>
-      <img
-        alt="Top Languages"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGN&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusGN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+  />
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGN&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10"
+  />
+</p>
