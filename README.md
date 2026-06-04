@@ -117,26 +117,25 @@ I am passionate about cybersecurity, AI, and telecommunications, and I share my 
             alt="Recent Article 0"/>
 </a>
 
-<img
-    src="https://tryhackme-badges.s3.amazonaws.com/viniciusg.mnas.png" alt="Your Image Badge"
-/>
 ---
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats1" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusGN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats2" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGN&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=ViniciusGN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+      />
+    </td>
+    <td>
+      <img
+        alt="Top Languages"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGN&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10"
+      />
+    </td>
+  </tr>
+</table>
